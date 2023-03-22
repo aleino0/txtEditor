@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\txtEditor\txtEditor\bin\Debug\txtEditor.exe.config
+C:\Users\ucenik\source\repos\txtEditor\txtEditor\bin\Debug\txtEditor.exe
+C:\Users\ucenik\source\repos\txtEditor\txtEditor\bin\Debug\txtEditor.pdb
+C:\Users\ucenik\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.txtEditor.resources
+C:\Users\ucenik\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.Properties.Resources.resources
+C:\Users\ucenik\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.exe
+C:\Users\ucenik\source\repos\txtEditor\txtEditor\obj\Debug\txtEditor.pdb
